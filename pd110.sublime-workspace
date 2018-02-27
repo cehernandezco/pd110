@@ -1,0 +1,298 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"pro",
+				"product"
+			],
+			[
+				"prod",
+				"product"
+			],
+			[
+				"produ",
+				"products"
+			],
+			[
+				"FilterableProduct",
+				"FilterableProductTable"
+			],
+			[
+				"Prod",
+				"ProductRow"
+			],
+			[
+				"pr",
+				"ProductCategoryRow"
+			],
+			[
+				"Pro",
+				"ProductCategoryRow"
+			],
+			[
+				"weback",
+				"webpack-dev-server"
+			],
+			[
+				"React",
+				"ReactDOM"
+			],
+			[
+				"table",
+				"tableMovies"
+			],
+			[
+				"res",
+				"response"
+			],
+			[
+				"GE",
+				"Genre"
+			],
+			[
+				"reuest",
+				"request"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"in",
+				"input	Tag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 260.0,
+		"selected_items":
+		[
+			[
+				"Snippet: ",
+				"Snippet: if"
+			]
+		],
+		"width": 467.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/EstebanHernandez/Documents/ReactGit/learningreact/app/src/components/FilterableProductTable.js",
+		"/Users/EstebanHernandez/Documents/ReactGit/learningreact/app/src/components/ProductTable.js",
+		"/Users/EstebanHernandez/Documents/ReactGit/learningreact/app/src/components/ProductCategoryRow.js",
+		"/Users/EstebanHernandez/Documents/ReactGit/learningreact/app/src/components/ProductRow.js",
+		"/Users/EstebanHernandez/Documents/ReactGit/learningreact/app/src/components/SearchBar.js",
+		"/Users/EstebanHernandez/Documents/ReactGit/learningreact/app/src/index.js",
+		"/Users/EstebanHernandez/Documents/ReactGit/learningreact/package.json",
+		"/Users/EstebanHernandez/Documents/ReactGit/learningreact/webpack.config.js",
+		"/Users/EstebanHernandez/Documents/ReactGit/learningreact/app/dist/index.html",
+		"/Users/EstebanHernandez/Documents/ReactGit/learningreact/app/index.html",
+		"/Users/EstebanHernandez/Documents/ReactGit/learningreact/node_modules/.bin/webpack-dev-server",
+		"/Users/EstebanHernandez/Documents/ReactGit/learningreact/app/dist/index.js",
+		"/Users/EstebanHernandez/Desktop/cursonode/holaHtml.js",
+		"/Users/EstebanHernandez/Desktop/cursonode/helloWorld.js",
+		"/Users/EstebanHernandez/Documents/ReactGit/learningreact/app/js/index.min.js",
+		"/Users/EstebanHernandez/Desktop/react-template-espanol-master/package.json",
+		"/Users/EstebanHernandez/Documents/ReactGit/learningreact/webpack",
+		"/Users/EstebanHernandez/Documents/ReactGit/learningreact/app/dist/modulo2.js",
+		"/Users/EstebanHernandez/Documents/ReactGit/learningreact/app/dist/modulo1.js",
+		"/Users/EstebanHernandez/Dropbox/CURSOS/REACT/webpack",
+		"/Users/EstebanHernandez/Dropbox/CURSOS/REACT/Project React/package.json",
+		"/Users/EstebanHernandez/Desktop/curso node/helloWorld.js",
+		"/Users/EstebanHernandez/Desktop/Agencia/database/migrations/2016_03_25_184130_create_clients_table.php",
+		"/Users/EstebanHernandez/Desktop/Agencia/database/migrations/2014_10_12_000000_create_users_table.php",
+		"/Users/EstebanHernandez/Desktop/Agencia/.env",
+		"/Users/EstebanHernandez/Desktop/Agencia/app/Client.php",
+		"/Users/EstebanHernandez/Desktop/Parking/app/Rate.php",
+		"/Users/EstebanHernandez/Desktop/Parking/app/User.php",
+		"/Users/EstebanHernandez/Desktop/Parking/app/Task.php",
+		"/Users/EstebanHernandez/Desktop/Parking/.env",
+		"/Users/EstebanHernandez/Desktop/Parking/app/Http/Controllers/HomeController.php",
+		"/Users/EstebanHernandez/Desktop/Parking/app/Http/Controllers/Controller.php",
+		"/Users/EstebanHernandez/Desktop/Parking/config/app.php",
+		"/Users/EstebanHernandez/Desktop/Parking/app/Http/Controllers/Auth/AuthController.php",
+		"/Users/EstebanHernandez/Desktop/laravel2/database/migrations/2016_01_14_183624_create_movies_table.php",
+		"/Users/EstebanHernandez/Desktop/laravel2/resources/views/movie/create.blade.php",
+		"/Users/EstebanHernandez/Desktop/laravel2/app/Http/routes.php",
+		"/Users/EstebanHernandez/Desktop/laravel2/resources/views/movie/forms/movie.blade.php",
+		"/Users/EstebanHernandez/Desktop/laravel2/app/Http/Controllers/MovieController.php",
+		"/Users/EstebanHernandez/Desktop/laravel2/database/migrations/2016_01_23_131709_add_deleted_to_users_table.php",
+		"/Users/EstebanHernandez/Desktop/laravel2/config/filesystems.php",
+		"/Users/EstebanHernandez/Desktop/laravel2/resources/views/genre/index.blade.php",
+		"/Users/EstebanHernandez/Desktop/laravel2/resources/views/genre/create.blade.php",
+		"/Users/EstebanHernandez/Desktop/laravel2/resources/views/genre/modal.blade.php",
+		"/Users/EstebanHernandez/Desktop/laravel2/app/Http/Controllers/GenreController.php",
+		"/Users/EstebanHernandez/Desktop/laravel2/public/js/script.js",
+		"/Users/EstebanHernandez/Desktop/laravel2/public/js/script2.js",
+		"/Users/EstebanHernandez/Desktop/laravel2/resources/views/genre/form/genre.blade.php",
+		"/Users/EstebanHernandez/Desktop/laravel2/app/Genre.php",
+		"/Users/EstebanHernandez/Desktop/laravel2/resources/views/layouts/admin.blade.php",
+		"/Users/EstebanHernandez/Desktop/laravel2/app/Http/Controllers/UserController.php",
+		"/Users/EstebanHernandez/Dropbox/work/grupbie/laravelPC/app/Http/Controllers/UserController.php",
+		"/Users/EstebanHernandez/Desktop/laravel/app/Http/Requests/UserCreateRequest.php",
+		"/Users/EstebanHernandez/Desktop/laravel/composer.json",
+		"/Users/EstebanHernandez/Desktop/laravel/app/Http/Controllers/Auth/AuthController.php",
+		"/Users/EstebanHernandez/Desktop/laravel/config/auth.php",
+		"/Users/EstebanHernandez/Desktop/laravel/app/Http/routes.php",
+		"/Users/EstebanHernandez/Desktop/laravel/resources/views/index.blade.php",
+		"/Users/EstebanHernandez/Desktop/laravel/resources/views/common/messages.blade.php",
+		"/Users/EstebanHernandez/Desktop/laravel/app/Http/Controllers/LoginController.php",
+		"/Users/EstebanHernandez/Desktop/laravel/app/Http/Middleware/Authenticate.php",
+		"/Users/EstebanHernandez/Desktop/laravel/resources/views/admin/index.blade.php",
+		"/Users/EstebanHernandez/Desktop/laravel/resources/views/layouts/admin.blade.php",
+		"/Users/EstebanHernandez/Desktop/laravel/app/Http/Requests/LoginRequest.php",
+		"/Users/EstebanHernandez/Desktop/laravel/resources/views/user/index.blade.php",
+		"/Users/EstebanHernandez/Desktop/laravel/resources/views/reviews.blade.php",
+		"/Users/EstebanHernandez/Desktop/laravel/app/User.php",
+		"/Users/EstebanHernandez/Desktop/laravel/database/migrations/2016_01_23_131709_add_deleted_to_users_table.php",
+		"/Users/EstebanHernandez/Desktop/laravel/app/Http/Controllers/UserController.php",
+		"/Users/EstebanHernandez/Desktop/laravel/resources/views/user/edit.blade.php",
+		"/Users/EstebanHernandez/Desktop/laravel/resources/views/user/create.blade.php",
+		"/Users/EstebanHernandez/Desktop/laravel/resources/views/user/forms/user.blade.php",
+		"/Users/EstebanHernandez/Desktop/laravel/app/Http/Requests/UserUpdateRequest.php",
+		"/Users/EstebanHernandez/Desktop/laravel/resources/views/common/errors.blade.php",
+		"/Users/EstebanHernandez/Desktop/laravel/bootstrap/cache/.gitignore",
+		"/Users/EstebanHernandez/Desktop/laravel/database/migrations/2016_01_17_204728_create_genres_table.php",
+		"/Users/EstebanHernandez/Desktop/laravel/database/migrations/2016_01_17_204654_create_movies_table.php",
+		"/Users/EstebanHernandez/Desktop/laravel/app/Genre.php",
+		"/Users/EstebanHernandez/Desktop/laravel/app/Http/Controllers/Controller.php",
+		"/Users/EstebanHernandez/Desktop/laravel/app/Http/Controllers/MovieController.php",
+		"/Users/EstebanHernandez/Desktop/laravel/app/Movie.php",
+		"/Users/EstebanHernandez/Desktop/laravel/.env",
+		"/Users/EstebanHernandez/Desktop/laravel/config/app.php",
+		"/Users/EstebanHernandez/Desktop/laravel/resources/lang/es/passwords.php",
+		"/Users/EstebanHernandez/Desktop/laravel/resources/lang/es/pagination.php",
+		"/Users/EstebanHernandez/Desktop/laravel/resources/lang/es/validation.php",
+		"/Users/EstebanHernandez/Desktop/laravel/resources/lang/es/auth.php",
+		"/Users/EstebanHernandez/Dropbox/work/PHP_laravel/Prueba1/composer.json",
+		"/Users/EstebanHernandez/Dropbox/work/Paradigma/Transpromo/Transpromo.html"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"error",
+			"position:relative;",
+			"HOME_MEASURE",
+			"DROP TABLE IF EXISTS `HOME_MEASURE`.`CLASIFICATION` ;\n\nCREATE TABLE IF NOT EXISTS `HOME_MEASURE`.`CLASIFICATION` (\n  `CLAS_id` INT NULL AUTO_INCREMENT,\n  `CLAS_name` VARCHAR(50) NOT NULL,\n  `SUBCATEGORY_CATE_id` INT NOT NULL,\n  PRIMARY KEY (`CLAS_id`),\n  INDEX `fk_CLASIFICATION_SUBCATEGORY1_idx` (`SUBCATEGORY_CATE_id` ASC),\n  CONSTRAINT `fk_CLASIFICATION_SUBCATEGORY1`\n    FOREIGN KEY (`SUBCATEGORY_CATE_id`)\n    REFERENCES `HOME_MEASURE`.`SUBCATEGORY` (`SUBC_id`)\n   HOME_MEASURE",
+			"DROP TABLE IF EXISTS `HOME_MEASURE`.`CLASIFICATION` ;\n\nCREATE TABLE IF NOT EXISTS `HOME_MEASURE`.`CLASIFICATION` (\n  `CLAS_id` INT NULL AUTO_INCREMENT,\n  `CLAS_name` VARCHAR(50) NOT NULL,\n  `SUBCATEGORY_CATE_id` INT NOT NULL,\n  PRIMARY KEY (`CLAS_id`),\n  INDEX `fk_CLASIFICATION_SUBCATEGORY1_idx` (`SUBCATEGORY_CATE_id` ASC),\n  CONSTRAINT `fk_CLASIFICATION_SUBCATEGORY1`\n    FOREIGN KEY (`SUBCATEGORY_CATE_id`)\n    REFERENCES `HOME_MEASURE`.`SUBCATEGORY` (`SUBC_id`)\n    ON DELETE NO ACTION\n    HOME_MEASURE",
+			"HOME_MEASURE",
+			"search"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"",
+			"cl45-measure"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 203.0,
+	"status_bar_visible": true
+}
