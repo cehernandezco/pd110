@@ -12,7 +12,7 @@ def index(request):
 	if form.is_valid():
 		instance = form.save(commit=False)
 		instance.save()
-		print instance
+		print (instance)
 		#form_data = form.cleaned_data
 		#email = form_data.get('email')
 		#name = form_data.get('name')
@@ -26,7 +26,7 @@ def index(request):
 def contact(request):
 	form = ContactForm(request.POST or None)
 	if form.is_valid():
-		print form.cleaned_data
+		print (form.cleaned_data)
 	context = {
 		"form": form,
 
