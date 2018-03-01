@@ -37,7 +37,6 @@ EMAIL_USE_TLS = True
 INSTALLED_APPS = [
 
     'django.contrib.admin',
-    'django.contrib.auth',
     'django.contrib.contenttypes',
     'django.contrib.sessions',
     'django.contrib.sites',
@@ -46,6 +45,7 @@ INSTALLED_APPS = [
     #third parties apps
     'crispy_forms',
     'registration',
+    'django.contrib.auth',
     #my apps
     'boletin',
 ]
@@ -116,7 +116,7 @@ AUTH_PASSWORD_VALIDATORS = [
 # Internationalization
 # https://docs.djangoproject.com/en/1.10/topics/i18n/
 
-LANGUAGE_CODE = 'en-uk'
+LANGUAGE_CODE = 'en-UK'
 
 TIME_ZONE = 'UTC'
 
@@ -139,7 +139,7 @@ STATICFILES_DIRS = [
 ]
 ACCOUNT_ACTIVATION_DAYS = 7 # One-week activation window; you may, of course, use a different value.
 REGISTRATION_AUTO_LOGIN = True # Automatically log the user in.
-
+SITE_ID = 1
 
 STATIC_ROOT = os.path.join(os.path.dirname(BASE_DIR), "static_env","static_root")
 MEDIA_ROOT = os.path.join(os.path.dirname(BASE_DIR), "static_env","media_root")

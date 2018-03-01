@@ -1,0 +1,11 @@
+{% load i18n %}
+
+{% trans "Active your account" %} {{ site.name }}:
+
+Hi,
+Hit the following link to active your account.
+http://{{ site.domain }}{% url 'registration_activate' activation_key %}
+
+{% blocktrans %}The link is valid for {{ expiration_days }} days.{% endblocktrans %}
+
+-Team CFE

@@ -7,8 +7,8 @@ from .models import Registered
 def index(request):
 	form = RegModelForm(request.POST or None)
 	title = ""
-	if request.user.is_authenticated():
-		title = "Welcome %s" %(request.user)
+	#if request.user.is_authenticated():
+		#title = "Welcome %s" %(request.user)
 	if form.is_valid():
 		instance = form.save(commit=False)
 		instance.save()
